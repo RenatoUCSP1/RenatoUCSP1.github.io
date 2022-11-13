@@ -1,0 +1,6 @@
+@font-face {
+  font-family: <un-nombre-de-fuente-remota>;
+  src: <origen> [,<origen>]*;
+  [font-weight: <peso>];
+  [font-style: <estilo>];
+}
